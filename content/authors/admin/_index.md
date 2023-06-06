@@ -10,19 +10,19 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:test@example.org
+    link: mailto:kenneth.chen@utsouthwestern.edu
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/kennethschen
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=92xrqCgAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/kennethchenlab
 organizations:
-  - name: Stanford University
-    url: ""
+  - name: UT Southwestern
+    url: https://www.utsouthwestern.edu
 education:
   courses: []
 superuser: true
