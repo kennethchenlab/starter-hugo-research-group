@@ -1,12 +1,10 @@
 ---
 title: Kenneth Chen
 role: Assistant Professor of Pediatrics
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: "My research interests include mutations in microRNA processing genes in
+  childhood cancers. "
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Wilmstumor
 social:
   - icon: envelope
     icon_pack: fas
@@ -33,7 +31,4 @@ highlight_name: false
 first_name: Nelson
 email: ""
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+K﻿enneth Chen is an Assistant Professor of Pediatrics at UT Southwestern. His research interests include DROSHA and DICER1 mutations in childhood cancer.
